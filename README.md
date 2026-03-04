@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🐍Python Developer<br> 🎓MCA Student<br> 🚀Currently improving<br><br><br> “Make yourself proud.”
+ 🐍Python Developer<br> 🎓MCA Student<br> 🚀Currently improving<br><br><br> “Make yourself proud,even in small hapiness and mistakes”
 
 
 ## 🌐 Socials:
