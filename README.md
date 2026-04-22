@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🐍 Python Developer<br> 🎓 MCA Student<br> 🚀 Currently improving<br><br><br> “Make yourself proud, even in small happiness and mistakes”
+ 🐍 Python Developer<br> 🎓 MCA Student<br> 🚀 Currently improving<br><br><br> “Make yourself proud, even in small success and fail”
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rijo___varghese) 
