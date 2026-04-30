@@ -61,7 +61,7 @@
 # 📈 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rijogit007&theme=react-dark&bg_color=0d1117&hide_border=true&line=00e7ff&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rijogit007&theme=react-dark&hide_border=true" />
 </p>
 ---
 
