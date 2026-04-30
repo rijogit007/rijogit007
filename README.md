@@ -8,26 +8,53 @@
 
 # 🚀 Live Projects
 
-## 🌐 Logistics Tracking System (International)
-🔴 **Live Demo:** https://matrixwweindia.com/  
-**Tech:** Django • MySQL • HTML • CSS • JavaScript  
+<p align="center">
+
+<a href="https://matrixwweindia.com/">
+  <img src="https://img.shields.io/badge/Logistics%20Tracking%20System%20(International)-Django%20%7C%20MySQL%20%7C%20Live-blue?style=for-the-badge&logo=django" />
+</a>
+
+</p>
+
+<p align="center">
+📦 <b>International Logistics Tracking System</b><br/>
+Real-time logistics tracking platform for monitoring shipments with live status updates and delivery visibility.
+</p>
 
 ---
 
-## 🚚 Logistics Tracking System (Commercial)
-🔴 **Live Demo:** https://matrixwwe.com/  
-**Tech:** Django • MySQL • HTML • CSS • JavaScript  
+<p align="center">
+
+<a href="https://matrixwwe.com/">
+  <img src="https://img.shields.io/badge/Logistics%20Tracking%20System%20(Commercial)-Django%20%7C%20MySQL%20%7C%20Live-green?style=for-the-badge&logo=django" />
+</a>
+
+</p>
+
+<p align="center">
+🚚 <b>Commercial Logistics Management System</b><br/>
+Enterprise logistics management system for tracking, managing, and optimizing end-to-end delivery operations.
+</p>
 
 ---
 
-## 🛒 E-commerce Website
-🔴 **Live Demo:** https://jdsenterprisesbangalore.com/  
-**Tech:** Django • MySQL • HTML • CSS • JavaScript  
+<p align="center">
+
+<a href="https://jdsenterprisesbangalore.com/">
+  <img src="https://img.shields.io/badge/E--Commerce%20Website-Django%20%7C%20MySQL%20%7C%20Live-orange?style=for-the-badge&logo=django" />
+</a>
+
+</p>
+
+<p align="center">
+🛒 <b>E-Commerce Platform</b><br/>
+Full-stack e-commerce platform with product catalog, cart system, and order management for seamless online shopping.
+</p>
 
 ---
 
 # 🌐 Socials
-<p align="left">
+<p align="center">
 <a href="https://instagram.com/rijo___varghese"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
 <a href="https://linkedin.com/in/rijo-varghese225"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
 <a href="https://youtube.com/@Rijo_here"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"></a>
@@ -37,7 +64,7 @@
 ---
 
 # 💻 Tech Stack
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -48,7 +75,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# 🖤 📊 GitHub Stats 
 
 <p align="center">
   <img height="170"
@@ -62,7 +89,9 @@
   <img height="170"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=github_dark&layout=compact&hide_border=true" />
 </p>
+
 ---
+
 # 📈 Contribution Graph
 
 <p align="center">
@@ -71,8 +100,5 @@
 
 ---
 
-
-
----
-
+# 👀 Profile Views
 [![](https://visitcount.itsvg.in/api?id=rijogit007&icon=0&color=0)](https://visitcount.itsvg.in)
