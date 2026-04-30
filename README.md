@@ -50,16 +50,14 @@
 
 # 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rijogit007&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=rijogit007&theme=tokyonight&hide_border=false" height="165"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rijogit007&theme=github_dark&show_icons=true&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.demolab.com?user=rijogit007&theme=github-dark&hide_border=true" height="165"/>
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=tokyonight&layout=compact" height="165"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=github_dark&layout=compact&hide_border=true" height="165"/>
 </p>
-
----
 
 # 📈 Contribution Graph
 
