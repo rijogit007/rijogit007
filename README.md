@@ -8,87 +8,43 @@
 
 # 🚀 Live Projects
 
-<p align="center">
+## 🌐 Logistics Tracking System (International)
 
-<a href="https://matrixwweindia.com/">
-  <img src="https://img.shields.io/badge/Logistics%20System%20(International)-Django%20%7C%20MySQL%20%7C%20Live-blue?style=for-the-badge&logo=django" />
-</a>
-
-</p>
-
-<p align="center">
-📦 International Logistics Tracking System<br/>
-Real-time shipment tracking system with live status updates and delivery visibility.
-</p>
+🔴 **Live Demo:** https://matrixwweindia.com/  
+**Tech:** Django • MySQL • HTML • CSS • JavaScript  
 
 ---
 
-<p align="center">
+## 🚚 Logistics Tracking System (Commercial)
 
-<a href="https://matrixwwe.com/">
-  <img src="https://img.shields.io/badge/Logistics%20System%20(Commercial)-Django%20%7C%20MySQL%20%7C%20Live-green?style=for-the-badge&logo=django" />
-</a>
-
-</p>
-
-<p align="center">
-🚚 Commercial Logistics Management System<br/>
-Enterprise system for tracking, managing, and optimizing delivery operations.
-</p>
+🔴 **Live Demo:** https://matrixwwe.com/  
+**Tech:** Django • MySQL • HTML • CSS • JavaScript  
 
 ---
 
-<p align="center">
+## 🛒 E-commerce Website
 
-<a href="https://jdsenterprisesbangalore.com/">
-  <img src="https://img.shields.io/badge/E--Commerce%20Website-Django%20%7C%20MySQL%20%7C%20Live-orange?style=for-the-badge&logo=django" />
-</a>
+🔴 **Live Demo:** https://jdsenterprisesbangalore.com/  
+**Tech:** Django • MySQL • HTML • CSS • JavaScript
 
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rijo___varghese) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rijo-varghese225) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Rijo_here) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rijovarghese225@gmail.com) 
 
-<p align="center">
-🛒 E-Commerce Platform<br/>
-Full-stack shopping platform with cart, products, and order management.
-</p>
+# 💻 Tech Stack:
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
----
-
-# 🌐 Socials
-<p align="center">
-<a href="https://instagram.com/rijo___varghese"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
-<a href="https://linkedin.com/in/rijo-varghese225"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-<a href="https://youtube.com/@Rijo_here"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"></a>
-<a href="mailto:rijovarghese225@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-# 💻 Tech Stack
-<p align="center">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
----
-
-# 🖤 📊 GitHub Stats
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=rijogit007&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
-
-  <img height="170"
-       src="https://github-readme-streak-stats.demolab.com?user=rijogit007&hide_border=false" />
-</p>
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&layout=compact&hide_border=false" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rijogit007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com?user=rijogit007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
