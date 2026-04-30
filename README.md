@@ -61,7 +61,7 @@
 # 📈 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=rijogit007&theme=dark" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=rijogit007&icon=0&color=0)](https://visitcount.itsvg.in)
