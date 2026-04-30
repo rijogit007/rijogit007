@@ -58,10 +58,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=dark&layout=compact" height="165"/>
 </p>
 
-# 📊 Contribution Graph (3D Glow Style)
+# 📈 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rijogit007&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=00ffcc&point=ffcc00" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rijogit007&theme=react-dark&bg_color=0d1117&hide_border=true&line=00e7ff&point=ffffff" />
 </p>
 ---
 
