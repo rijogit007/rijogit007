@@ -1,6 +1,27 @@
 # 💫 About Me:
  🐍 Python Developer<br> 🎓 MCA Student<br> 🚀 Currently improving<br><br><br> “Make yourself proud—no matter how small the win or the fall.”
 
+# 🚀 Live Projects
+
+## 🌐 Logistics Tracking System (International)
+
+🔴 **Live Demo:** https://matrixwweindia.com/  
+**Tech:** Django • MySQL • HTML • CSS • JavaScript  
+
+---
+
+## 🚚 Logistics Tracking System (Commercial)
+
+🔴 **Live Demo:** https://matrixwwe.com/  
+**Tech:** Django • MySQL • HTML • CSS • JavaScript  
+
+---
+
+## 🛒 E-commerce Website
+
+🔴 **Live Demo:** https://jdsenterprisesbangalore.com/  
+**Tech:** Django • MySQL • HTML • CSS • JavaScript
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rijo___varghese) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rijo-varghese225) 
