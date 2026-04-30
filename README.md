@@ -1,13 +1,10 @@
 # 👋 Hi, I'm Rijo
 
 ### 💫 About Me:
-🐍 Python Developer  
-🎓 MCA Student  
-🚀 Currently improving  
+🐍 Python Developer | 🎓 MCA Student | 🚀 Currently improving  
 
 > “Make yourself proud—no matter how small the win or the fall.”  
 ---
-
 
 # 🚀 Live Projects
 
@@ -29,28 +26,37 @@
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rijo___varghese)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rijo-varghese225)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Rijo_here)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rijovarghese225@gmail.com)  
+# 🌐 Socials
+<p align="left">
+<a href="https://instagram.com/rijo___varghese"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+<a href="https://linkedin.com/in/rijo-varghese225"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+<a href="https://youtube.com/@Rijo_here"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"></a>
+<a href="mailto:rijovarghese225@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-# 💻 Tech Stack:
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+# 💻 Tech Stack (Horizontal)
+<p align="left">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rijogit007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://streak-stats.demolab.com?user=rijogit007&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+# 📊 GitHub Stats (Horizontal Layout)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rijogit007&theme=dark&hide_border=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rijogit007&theme=dark&hide_border=false" height="165"/>
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=dark&layout=compact" height="165"/>
+</p>
 
 ---
 
