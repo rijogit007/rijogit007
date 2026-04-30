@@ -48,7 +48,7 @@
 
 ---
 
-# 📊 GitHub Stats (Horizontal Layout)
+# 📊 GitHub Stats 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=rijogit007&theme=dark&hide_border=false" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rijogit007&theme=dark&hide_border=false" height="165"/>
@@ -58,6 +58,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=dark&layout=compact" height="165"/>
 </p>
 
+# 📊 Contribution Graph (3D Glow Style)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rijogit007&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=00ffcc&point=ffcc00" />
+</p>
 ---
 
 [![](https://visitcount.itsvg.in/api?id=rijogit007&icon=0&color=0)](https://visitcount.itsvg.in)
