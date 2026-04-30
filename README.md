@@ -58,10 +58,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=dark&layout=compact" height="165"/>
 </p>
 
-# 📈 3D Contribution Graph
+#  Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rijogit007&theme=react-dark&bg_color=0d1117&hide_border=true&line=00e7ff&point=ffffff" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=rijogit007&theme=dark" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=rijogit007&icon=0&color=0)](https://visitcount.itsvg.in)
