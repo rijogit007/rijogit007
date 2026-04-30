@@ -8,48 +8,21 @@
 
 # 🚀 Live Projects
 
-<p align="center">
-
-<a href="https://matrixwweindia.com/">
-  <img src="https://img.shields.io/badge/Logistics%20Tracking%20System%20(International)-Django%20%7C%20MySQL%20%7C%20Live-blue?style=for-the-badge&logo=django" />
-</a>
-
-</p>
-
-<p align="center">
-📦 <b>International Logistics Tracking System</b><br/>
-Real-time logistics tracking platform for monitoring shipments with live status updates and delivery visibility.
-</p>
+## 🌐 Logistics Tracking System (International)
+🔴 **Live Demo:** https://matrixwweindia.com/  
+**Tech:** Django • MySQL • HTML • CSS • JavaScript  
 
 ---
 
-<p align="center">
-
-<a href="https://matrixwwe.com/">
-  <img src="https://img.shields.io/badge/Logistics%20Tracking%20System%20(Commercial)-Django%20%7C%20MySQL%20%7C%20Live-green?style=for-the-badge&logo=django" />
-</a>
-
-</p>
-
-<p align="center">
-🚚 <b>Commercial Logistics Management System</b><br/>
-Enterprise logistics management system for tracking, managing, and optimizing end-to-end delivery operations.
-</p>
+## 🚚 Logistics Tracking System (Commercial)
+🔴 **Live Demo:** https://matrixwwe.com/  
+**Tech:** Django • MySQL • HTML • CSS • JavaScript  
 
 ---
 
-<p align="center">
-
-<a href="https://jdsenterprisesbangalore.com/">
-  <img src="https://img.shields.io/badge/E--Commerce%20Website-Django%20%7C%20MySQL%20%7C%20Live-orange?style=for-the-badge&logo=django" />
-</a>
-
-</p>
-
-<p align="center">
-🛒 <b>E-Commerce Platform</b><br/>
-Full-stack e-commerce platform with product catalog, cart system, and order management for seamless online shopping.
-</p>
+## 🛒 E-commerce Website
+🔴 **Live Demo:** https://jdsenterprisesbangalore.com/  
+**Tech:** Django • MySQL • HTML • CSS • JavaScript  
 
 ---
 
@@ -75,15 +48,15 @@ Full-stack e-commerce platform with product catalog, cart system, and order mana
 
 ---
 
-# 📊 GitHub Stats (UPDATED UI + MODERN THEME)
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rijogit007&theme=react&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=rijogit007&theme=react&hide_border=true" height="170"/>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rijogit007&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=rijogit007&theme=tokyonight&hide_border=false" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=react&layout=compact&hide_border=true" height="170"/>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=tokyonight&layout=compact" height="165"/>
 </p>
 
 ---
@@ -96,5 +69,8 @@ Full-stack e-commerce platform with product catalog, cart system, and order mana
 
 ---
 
-# 👀 Profile Views
+
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=rijogit007&icon=0&color=0)](https://visitcount.itsvg.in)
