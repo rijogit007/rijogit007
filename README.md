@@ -36,7 +36,7 @@
 
 ---
 
-# 💻 Tech Stack 
+# 💻 Tech Stack
 <p align="left">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
@@ -48,19 +48,29 @@
 
 ---
 
-# 📊 GitHub Stats 
+# 📊 GitHub Stats
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rijogit007&theme=dark&hide_border=false" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rijogit007&theme=dark&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rijogit007&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=rijogit007&theme=tokyonight&hide_border=false" height="165"/>
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=dark&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=tokyonight&layout=compact" height="165"/>
 </p>
 
-#  Contribution Graph
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rijogit007&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rijogit007&theme=react-dark&bg_color=0d1117&hide_border=true&line=00e7ff&point=ffffff" />
 </p>
+
+---
+
+
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=rijogit007&icon=0&color=0)](https://visitcount.itsvg.in)
