@@ -11,14 +11,14 @@
 <p align="center">
 
 <a href="https://matrixwweindia.com/">
-  <img src="https://img.shields.io/badge/Logistics%20Tracking%20System%20(International)-Django%20%7C%20MySQL%20%7C%20Live-blue?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/Logistics%20System%20(International)-Django%20%7C%20MySQL%20%7C%20Live-blue?style=for-the-badge&logo=django" />
 </a>
 
 </p>
 
 <p align="center">
-📦 <b>International Logistics Tracking System</b><br/>
-Real-time logistics tracking platform for monitoring shipments with live status updates and delivery visibility.
+📦 International Logistics Tracking System<br/>
+Real-time shipment tracking system with live status updates and delivery visibility.
 </p>
 
 ---
@@ -26,14 +26,14 @@ Real-time logistics tracking platform for monitoring shipments with live status 
 <p align="center">
 
 <a href="https://matrixwwe.com/">
-  <img src="https://img.shields.io/badge/Logistics%20Tracking%20System%20(Commercial)-Django%20%7C%20MySQL%20%7C%20Live-green?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/Logistics%20System%20(Commercial)-Django%20%7C%20MySQL%20%7C%20Live-green?style=for-the-badge&logo=django" />
 </a>
 
 </p>
 
 <p align="center">
-🚚 <b>Commercial Logistics Management System</b><br/>
-Enterprise logistics management system for tracking, managing, and optimizing end-to-end delivery operations.
+🚚 Commercial Logistics Management System<br/>
+Enterprise system for tracking, managing, and optimizing delivery operations.
 </p>
 
 ---
@@ -47,8 +47,8 @@ Enterprise logistics management system for tracking, managing, and optimizing en
 </p>
 
 <p align="center">
-🛒 <b>E-Commerce Platform</b><br/>
-Full-stack e-commerce platform with product catalog, cart system, and order management for seamless online shopping.
+🛒 E-Commerce Platform<br/>
+Full-stack shopping platform with cart, products, and order management.
 </p>
 
 ---
@@ -75,19 +75,19 @@ Full-stack e-commerce platform with product catalog, cart system, and order mana
 
 ---
 
-# 🖤 📊 GitHub Stats 
+# 🖤 📊 GitHub Stats
 
 <p align="center">
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=rijogit007&theme=github_dark&show_icons=true&hide_border=true&count_private=true" />
+       src="https://github-readme-stats.vercel.app/api?username=rijogit007&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
 
   <img height="170"
-       src="https://github-readme-streak-stats.demolab.com?user=rijogit007&theme=github-dark&hide_border=true" />
+       src="https://github-readme-streak-stats.demolab.com?user=rijogit007&hide_border=false" />
 </p>
 
 <p align="center">
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&theme=github_dark&layout=compact&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&layout=compact&hide_border=false" />
 </p>
 
 ---
@@ -100,5 +100,4 @@ Full-stack e-commerce platform with product catalog, cart system, and order mana
 
 ---
 
-# 👀 Profile Views
 [![](https://visitcount.itsvg.in/api?id=rijogit007&icon=0&color=0)](https://visitcount.itsvg.in)
