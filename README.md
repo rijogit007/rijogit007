@@ -44,7 +44,7 @@
 ---
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijogit007&show_icons=false&theme=dark&title_color=ff4500&text_color=ffffff&bg_color=000000)
+![](https://github-readme-stats.vercel.app/api?username=rijogit007&show_icons=false&theme=dark&title_color=ff4500&text_color=ffffff&bg_color=000000)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rijogit007&theme=dark&hide_border=true&ring=ff4500&fire=ff4500&currStreakLabel=ff4500&background=000000)
 
