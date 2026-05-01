@@ -42,12 +42,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijogit007&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijogit007&show_icons=true&theme=dark&title_color=ff4500&icon_color=ff4500&text_color=ffffff&bg_color=000000)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rijogit007&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=rijogit007&theme=dark&ring=ff4500&fire=ff4500&currStreakLabel=ff4500&background=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&layout=compact&theme=tokyonight)
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&layout=compact&theme=dark&title_color=ff4500&text_color=ffffff&bg_color=000000)
 
 # 📈 Contribution Graph
 
