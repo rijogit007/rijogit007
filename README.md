@@ -49,12 +49,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=rijogit007&theme=dark&hide_border=true&ring=ff4500&fire=ff4500&currStreakLabel=ff4500&background=000000)
 
 
-# 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rijogit007&theme=react-dark&bg_color=0d1117&hide_border=true&line=00e7ff&point=ffffff" />
-</p>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=rijogit007&icon=0&color=0)](https://visitcount.itsvg.in)
