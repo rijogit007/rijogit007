@@ -11,13 +11,13 @@
 ## 🌐 Logistics Tracking System (International)
 
 🔴 **Live Demo:** https://matrixwweindia.com/  
-**Tech:** PHP • MySQL • HTML • CSS • JavaScript/Ajax  
+**Tech:** Django • MySQL • HTML • CSS • JavaScript  
 
 
 ## 🚚 Logistics Tracking System (Commercial)
 
 🔴 **Live Demo:** https://matrixwwe.com/  
-**Tech:** Django • MySQL • HTML • CSS • JavaScript  
+**Tech:** Php • MySQL • HTML • CSS • JavaScript/Ajax 
 
 
 ## 🛒 E-commerce Website
