@@ -3,7 +3,7 @@
 ### 💫 About Me:
 🐍 Python Developer | 🎓 MCA Student | 🚀 Currently improving  
 
-> “Make yourself proud—no matter how small the win or the fall.”  
+> “ Productivity without progress is just existence ” -Rv 
 ---
 
 # 🚀 Live Projects
