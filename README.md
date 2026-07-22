@@ -77,7 +77,7 @@
 
 # 📈 Contribution Graph
 
-[![Rijo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rijogit007&theme=github-compact&hide_border=true)](https://github.com/rijogit007)
+![GitHub Commit Chart](https://ghchart.rshah.org/2ECC71/rijogit007)
 
 ---
 
