@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rijo Varghese
 
-### 🐍 Python Developer | 🎓 MCA Student | 🚀 MCA Graduate
+### 🐍 Python Developer | 🎓 MCA Student | 🚀 MCA 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Developer;Full+Stack+Learner;Building+Real+World+Projects;Always+Learning+Something+New" />
 
@@ -10,7 +10,9 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
 
-> *"Productivity without progress is just existence."* — **Rv**
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=00FF7F&center=true&vCenter=true&width=750&lines=Productivity+without+progress+is+just+existence.;—+Rv" />
+</p>
 
 </div>
 
