@@ -8,8 +8,7 @@
 
 <br>
 
-> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=2ECC71&center=true&vCenter=true&width=700&lines=Productivity+without+progress+is+just+existence.;—+Rv" />
-
+> *"Productivity without progress is just existence."* — **Rv**
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=00FF7F&center=true&vCenter=true&width=750&lines=Productivity+without+progress+is+just+existence.;—+Rv" />
 </p>
