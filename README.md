@@ -1,17 +1,18 @@
-<div align="center">
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rijo Varghese
 
-### 🐍 Python Developer | 🎓 MCA Student | 🚀 IMPROVING
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2ECC71&center=true&vCenter=true&width=750&lines=🐍+Python+Developer;🎓+MCA+Student;🚀+Always+Improving;💻+Building+Real+World+Projects" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Python+Developer;Building+Real+World+Projects;Always+Learning+Something+New" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120">
+</p>
 
-<br>
+<p align="center">
 
 > *"Productivity without progress is just existence."* — **Rv**
 
-
-</div>
+</p>
 
 ---
 
@@ -66,28 +67,46 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=rijogit007&theme=tokyonight&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rijogit007&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rijogit007&theme=tokyonight" height="170"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rijogit007&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Rijo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rijogit007&theme=github-compact&hide_border=true)](https://github.com/rijogit007)
+[![Rijo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rijogit007&theme=github-compact)](https://github.com/rijogit007)
 
 ---
 
-<div align="center">
+# 🟩 Contribution Chart
+
+<img src="https://ghchart.rshah.org/2ECC71/rijogit007" alt="Contribution Chart" />
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rijogit007/rijogit007/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/rijogit007/rijogit007/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rijogit007&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ### ⭐ Thanks for visiting my profile!
 
 If you like my work, consider ⭐ starring my repositories.
 
-<img src="https://komarev.com/ghpvc/?username=rijogit007&label=Profile%20Views&color=0e75b6&style=flat" />
-
 ### 🚀 Happy Coding!
-
-</div>
