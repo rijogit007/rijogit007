@@ -74,12 +74,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rijogit007&layout=compact&theme=tokyonight)
 
 ---
-
-# 📈 Contribution Graph
+# 📈 Contributions
 
 ![GitHub Commit Chart](https://ghchart.rshah.org/2ECC71/rijogit007)
-
----
 
 <div align="center">
 
